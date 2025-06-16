@@ -1,4 +1,4 @@
-# AI Cover Letter Generator
+# 🤖 AI Cover Letter Generator
 
 Generate professional, tailored cover letters using Google Gemini AI from the command line.
 
